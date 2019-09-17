@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">第二个应用</string>
+    <string name="btn">提交</string>
+    <string name="str1">欢迎</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mysecondapp</string>
+    <string name="str1">welcome</string>
+    <string name="btn">submit</string>
+</resources>
