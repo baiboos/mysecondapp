@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
     }
 
     public void abc(View v){
-        text.setText("click2333");
+        text.setText("NEWclick");
     }
 
 }
